@@ -1,11 +1,27 @@
 # 💫 About Me:
-A tech enthusiast with a unique journey from aspiring doctor to exploring software development, AI, machine learning, data analytics, and large-scale project management. Currently a university student, I’m passionate about using technology to solve real-world problems while driving community growth through strong leadership and strategic communication
+A tech enthusiast with a unique journey from aspiring doctor to exploring software development, AI, machine learning, data analytics, and large-scale project management. Currently a university student, I’m passionate about using technology to solve real-world problems while driving community growth through strong leadership and strategic communication.
 
 ## 🌐 Socials:
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35">](https://instagram.com/ttjeff_1031) [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35">](https://linkedin.com/in/JeffTiong) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">](mailto:jefffong1031@gmail.com) 
+<p align="left">
+<a href="https://instagram.com/ttjeff_1031" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://linkedin.com/in/JeffTiong" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:jefffong1031@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
-## 💻 Tech Stack:
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"> <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="35"> <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="35"> <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="35"> <img src="
+# 💼 Core Tech Stack
+
+### 🧠 AI / Machine Learning
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,bots)](https://skillicons.dev)
+
+### ⚙️ Backend & API Development
+[![My Skills](https://skillicons.dev/icons?i=fastapi,java,mysql,sqlite,supabase,firebase,gcp)](https://skillicons.dev)
+
+### 💻 Frontend & UI Frameworks
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,flutter,figma)](https://skillicons.dev)
+
+### 🛠️ Media & Tools
+[![My Skills](https://skillicons.dev/icons?i=pr,canva,git,github,vercel)](https://skillicons.dev)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JeffTiong1031&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JeffTiong1031&theme=tokyonight&hide_border=false)<br/>
